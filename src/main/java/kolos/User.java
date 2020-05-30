@@ -21,7 +21,6 @@ public class User {
     public User(){
     }
 
-
     /**
      *  Musiałem dodać gettery jeszcze raz, ponieważ lombok mi nie łapał w mainie jak chciałem pobrać wartości.
      */
